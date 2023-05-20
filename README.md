@@ -15,6 +15,6 @@
  <p align="center">
  <a href="https://github.com/Friomademyday"><img title="Author" src="https://img.shields.io/badge/Author-FRIO-red.svg?style=for-the-badge&logo=github"></a>
 
-  
-# FOR MORE INFO ON BOT 
+
+## FOR MORE INFO ON BOT 
   JOIN WHATSAPP SUPPORT GROUP
