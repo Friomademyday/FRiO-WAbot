@@ -7,3 +7,7 @@
  </p>
 
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKxqdO_17Mq-vT85p-gBbrclHS1ooxHpLwQ&usqp=CAU">
+
+ 
+ <p align="center"> 
+ <a href="https://github.com/Friomademyday"><img title="Author" src="https://img.shields.io/badge/Author-FRIO-blue.svg?style=for-the-badge&logo=github"></a>
