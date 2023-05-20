@@ -18,5 +18,3 @@
 
 ## FOR MORE INFO ON BOT 
   𝐉𝐎𝐈𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏
-<p align="center"> 
- <a href="https://chat.whatsapp.com/Fro0FQAyfVf9q0iRkugq8T"><img title="GROUP" src="https://img.shields.io/badge/GROUP-Whatsapp-red.svg?style=for-the-badge&logo=whatsapp"></a>
